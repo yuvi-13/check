@@ -1,9 +1,9 @@
 import math
 a=4
 b=4.0
-type(a)
-type(b)
+d=type(a)
 o=math.sqrt(49)
+print('data type of a',d)
 print('o=',+o)
-msg = "Hello World"
+msg = "Hi dude"
 print(msg)
